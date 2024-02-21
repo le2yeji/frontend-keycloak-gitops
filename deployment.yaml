@@ -22,4 +22,4 @@ spec:
         - name: BACKEND_API_URL
           value: "backend" 
         ports:
-        - containerPort: 40010
+        - containerPort: 80
